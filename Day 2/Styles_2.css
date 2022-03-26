@@ -1,0 +1,64 @@
+body{
+background-color: rgb(44, 28, 28);
+color: rgb(73, 129, 175);
+}
+
+#Main-Header{
+    text-align: center;   
+}
+
+.Info-container-1{
+    font-size: 20px;
+    border-left: 20px solid rgb(255, 252, 252);
+    border-top: 1px solid rgb(255, 252, 252);
+    border-bottom: 1px solid rgb(255, 252, 252);
+    border-right: 1px solid rgb(255, 252, 252);
+    padding: 10px;
+    
+}
+.Info-container-1 img{
+    width: 30%;
+    height: 30%;
+    margin-left: 70%;
+}
+.Info-container-1 h2{
+    text-align: center;
+
+}
+.Info-container-2{
+    font-size: 20px;
+    border-left: 1px solid rgb(255, 252, 252);
+    border-top: 1px solid rgb(255, 252, 252);
+    border-bottom: 1px solid rgb(255, 252, 252);
+    border-right: 20px solid rgb(255, 252, 252);
+    padding: 10px;
+    
+}
+.Info-container-2 img{
+    width: 30%;
+    height: 30%;
+    margin-left: 70%;
+}
+.Info-container-2 h2{
+    text-align: center;
+    
+}
+
+.Info-container-3{
+    font-size: 20px;
+    border-left: 20px solid rgb(255, 252, 252);
+    border-top: 1px solid rgb(255, 252, 252);
+    border-bottom: 1px solid rgb(255, 252, 252);
+    border-right: 1px solid rgb(255, 252, 252);
+    padding: 10px;
+    
+}
+.Info-container-3 img{
+    width: 30%;
+    height: 30%;
+    margin-left: 70%;
+}
+.Info-container-3 h2{
+    text-align: center;
+    
+}
